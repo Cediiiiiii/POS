@@ -1,0 +1,24 @@
+delete_from_stock.php called
+Received POST data: Array
+(
+    [id] => 7
+)
+
+delete_from_stock.php called
+Received POST data: Array
+(
+    [id] => 11
+)
+
+delete_from_stock.php called
+Received POST data: Array
+(
+    [id] => 12
+)
+
+delete_from_stock.php called
+Received POST data: Array
+(
+    [id] => 13
+)
+
